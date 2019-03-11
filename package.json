@@ -30,8 +30,7 @@
         "@pika/plugin-standard-pkg",
         {
           "exclude": [
-            "**/__tests__/**/*",
-            "**/*.json"
+            "**/__tests__/**/*"
           ]
         }
       ],

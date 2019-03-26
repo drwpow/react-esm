@@ -1,13 +1,13 @@
 {
   "name": "react-esm",
   "description": "React is a JavaScript library for building user interfaces.",
+  "version": "16.8.4",
+  "homepage": "https://reactjs.org/",
+  "bugs": "https://github.com/facebook/react/issues",
   "keywords": [
     "react",
     "es modules"
   ],
-  "version": "16.8.4",
-  "homepage": "https://reactjs.org/",
-  "bugs": "https://github.com/facebook/react/issues",
   "license": "MIT",
   "engines": {
     "node": ">=0.10.0"
@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "@babel/preset-flow": "^7.0.0",
-    "@pika/pack": "^0.3.4",
+    "@pika/pack": "^0.3.6",
     "@pika/plugin-build-web": "^0.3.14",
     "@pika/plugin-standard-pkg": "^0.3.14",
     "babel-plugin-module-resolver": "^3.2.0"

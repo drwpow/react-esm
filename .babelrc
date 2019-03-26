@@ -5,6 +5,7 @@
       "module-resolver",
       {
         "alias": {
+          "react": ["./src/index"],
           "scheduler": ["./src/react-scheduler"],
           "shared": ["./src/react-shared"]
         }
